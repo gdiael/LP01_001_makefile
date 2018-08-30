@@ -45,3 +45,4 @@ $(PROG1): $(OBJ1)
 ```
 
 Onde podemos quebrar a execução do script nas seguintes etapas:
+...Continuar anotações depois...

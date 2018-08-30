@@ -1,7 +1,10 @@
 # Exemplo de Makefile 
 # Aula de LP1 2018.2
 # 09/08/2018
-# Clonagem do código para testes : git clone https://github.com/imdcode/makeaula.git
+# Clonagem do código para testes original :
+#				git clone https://github.com/imdcode/makeaula.git
+# Clonagem atual para teste [minha implementação] :
+# 				git clone https://github.com/gdiael/LP01_001_makefile.git
 #
 # Gdiael Souto Barros
 #
